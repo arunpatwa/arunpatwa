@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"</img>
 - 🌱 I’m currently learning **Django,Rest API, MongoDB, Flutter, NodeJs**
 
-- 💬 Ask me about **Flask,HTML,CSS,Streamlit**
+- 💬 Ask me about **HTML, CSS, JavaScript, Flask, ReactJs, Streamlit**
 
 - 📫 How to reach me **arunspatwa.14@gmail.com**
 
