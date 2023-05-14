@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arun Patwa</h1>
 <h3 align="center">A passionate Tech Enthusiast from IIT Mandi, Himanchal Pradesh, India</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"</img>
-- 🌱 I’m currently learning **Django,Rest API, MongoDB, Flutter, NodeJs**
+- 🌱 I’m currently learning **ReactJS,JavaScript,Rest API, MongoDB,NodeJs**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Flask, ReactJs, Streamlit**
 
