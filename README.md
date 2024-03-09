@@ -1,23 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Arun Patwa</h1>
-<h3 align="center">A passionate Tech Enthusiast from IIT Mandi, Himanchal Pradesh, India</h3>
+<h3 align="center">A  Passionate Full-Stack Developer and Machine Learning Enthusiast from IIT Mandi, Himanchal Pradesh, India</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"</img>
-- 🌱 I’m currently learning **ReactJS,JavaScript,Rest API, MongoDB,NodeJs**
+- 🌱 Tech Stacks  **MERN( MongoDB, Express.js, React.js, Node.js), Javascript, Langchain , NLP, AI-ML/Deep Learning  **
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Flask, ReactJs, Streamlit**
+- 💬 Ask me about **MERN,  SQL, JavaScript, Flask, Fast-api, Streamlit**
 
-- 📫 How to reach me **arunspatwa.14@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jCv3s45Fl3a_LEPL8gzEBk7z6Q7SrKQW/view?usp=sharing](https://drive.google.com/file/d/1jCv3s45Fl3a_LEPL8gzEBk7z6Q7SrKQW/view?usp=sharing)
-
-- ⚡ Fun fact **My daily Life is funny.Working hard and getting Nothing**
+- 📫 How to reach me **arunpatwa.iit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arunsha54513629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunsha54513629" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arun-patwa-093694155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-patwa-093694155/" height="30" width="40" /></a>
 <a href="https://fb.com/arun.patwa.583/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun.patwa.583/" height="30" width="40" /></a>
-<a href="https://instagram.com/arun_s_patwa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arun_s_patwa/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sparker_as/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sparker_as/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arunspatwa14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arunspatwa14" height="30" width="40" /></a>
 </p>
