@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arun Patwa</h1>
-<h3 align="center">A  Passionate Full-Stack Developer and Machine Learning Enthusiast from IIT Mandi, Himanchal Pradesh, India</h3>
+<h3 align="center">A  Passionate Full-Stack Developer,AI-ML and Open Source Enthusiast from IIT Mandi, Himanchal Pradesh, India</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"</img>
 
 - 🌱 Tech Stacks **MERN( MongoDB, Express.js, React.js, Node.js), Javascript, Langchain , NLP, AI-ML/Deep Learning**
