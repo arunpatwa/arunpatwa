@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun Patwa</h1>
 <h3 align="center">Software Engineer | GSOC'24 (The Linux Foundation) | IIT Mandi 2024 </h3>
 
-<img align="right" alt="coding" width="380" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"/>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;GSoC+Contributor+%40+Linux+Foundation;Backend+%7C+Distributed+Systems;AI+%7C+Open+Source+Enthusiast"/>
-</p>
-
-## 📊 Contribution Graph
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunpatwa&theme=tokyonight)
-
----
 
 ## 👨‍💻 About Me
 
@@ -20,6 +9,18 @@
 - ⚙️ Experienced in building **microservices, developer platforms and backend systems**
 - 🤖 Interested in **AI-powered applications and system design**
 - 📚 Solved **750+ problems on LeetCode** with **400+ day streak**
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/arunpatwa/arunpatwa/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunpatwa&theme=tokyonight)
 
 ---
 
@@ -60,46 +61,13 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/arunpatwa/arunpatwa/blob/output/github-contribution-grid-snake.svg)
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arunpatwa&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunpatwa&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=arunpatwa&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🧠 LeetCode Stats
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/sparker_as?theme=dark&font=Karma"/>
+<img src="https://leetcard.jacoblin.cool/SparkerAS?theme=dark&font=Karma"/>
 
 </p>
-
-## 📊 Contribution Graph
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunpatwa&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arunpatwa&theme=tokyonight)
 
 ---
 
@@ -123,5 +91,3 @@
 </p>
 
 ---
-
-⭐️ From **Arun Patwa**
