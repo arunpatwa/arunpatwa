@@ -3,54 +3,125 @@
 
 <img align="right" alt="coding" width="380" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif"/>
 
-## 🚀 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;GSoC+Contributor+%40+Linux+Foundation;Backend+%7C+Distributed+Systems;AI+%7C+Open+Source+Enthusiast"/>
+</p>
+
+## 📊 Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunpatwa&theme=tokyonight)
+
+---
+
+## 👨‍💻 About Me
 
 - 💻 Software Engineer passionate about **Backend Engineering, Distributed Systems and Scalable Architecture**
 - 🌍 **Google Summer of Code 2024 Contributor** at **The Linux Foundation (OpenPrinting)**
-- 🔧 Experienced in building **backend systems, microservices and developer platforms**
+- ⚙️ Experienced in building **microservices, developer platforms and backend systems**
 - 🤖 Interested in **AI-powered applications and system design**
-- 📚 Solved **750+ problems on LeetCode** with a **400+ day streak**
+- 📚 Solved **750+ problems on LeetCode** with **400+ day streak**
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### Programming Languages
-C/C++ • Python • Java • JavaScript • Ruby • HTML • CSS  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### Backend Development
-Node.js • Express.js • REST APIs • Flask • FastAPI • Microservices • Distributed Systems  
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 ### Databases
-MySQL • PostgreSQL • MongoDB • Redis • SQL  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
-AWS • Docker • Kubernetes • Kafka • Jenkins • CI/CD Pipelines • Git • GitHub Actions • Jira  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/apachekafka-000?style=for-the-badge&logo=apachekafka)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### AI / ML
-LangChain • NLP • Deep Learning • OpenAI APIs • TensorFlow • PyTorch • Scikit-learn  
-
-### System Design
-Multithreading • Concurrency • Distributed Systems • Low-Level Design (LLD) • High-Level Design (HLD)
-
----
-
-## 📫 Reach Me
-
-📧 **Email:** arunpatwa.iit@gmail.com  
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="left">
-<a href="https://linkedin.com/in/arun-patwa-093694155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="https://leetcode.com/SparkerAS/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
-<a href="https://twitter.com/arunsha54513629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+![snake gif](https://github.com/arunpatwa/arunpatwa/blob/output/github-contribution-grid-snake.svg)
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arunpatwa&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunpatwa&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 🔥 GitHub Streak
 
-I enjoy solving complex engineering problems, designing scalable systems, and contributing to open source.
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=arunpatwa&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/sparker_as?theme=dark&font=Karma"/>
+
+</p>
+
+## 📊 Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunpatwa&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arunpatwa&theme=tokyonight)
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=arunpatwa&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/arunsha54513629"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/arunpatwa-iit"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
+<a href="https://www.leetcode.com/sparker_as"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40"/></a>
+<a href="https://auth.geeksforgeeks.org/user/arunspatwa14"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" height="30" width="40"/></a>
+</p>
+
+---
+
+⭐️ From **Arun Patwa**
