@@ -18,11 +18,28 @@
 
 ---
 
-## 📊 Contribution Graph
+<table>
+<tr>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunpatwa&theme=tokyonight)
+<td width="50%" align="center">
 
----
+### 📊 Contribution Graph
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunpatwa&theme=tokyonight"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/SparkerAS?theme=dark&font=Karma"/>
+
+</td>
+
+</tr>
+</table>
+
 
 # 🚀 Tech Stack
 
@@ -59,15 +76,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ScikitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/SparkerAS?theme=dark&font=Karma"/>
-
-</p>
 
 ---
 
