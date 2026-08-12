@@ -94,7 +94,7 @@
 <p align="left">
 <a href="https://twitter.com/arunsha54513629"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/arunpatwa-iit"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
-<a href="https://www.leetcode.com/sparker_as"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40"/></a>
+<a href="https://www.leetcode.com/SparkerAS"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40"/></a>
 <a href="https://auth.geeksforgeeks.org/user/arunspatwa14"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" height="30" width="40"/></a>
 </p>
 
